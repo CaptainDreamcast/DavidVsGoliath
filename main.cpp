@@ -62,7 +62,10 @@ int main(int argc, char** argv) {
 	}
 
 	setMugenAnimationHandlerPixelCenter(Vector2D(0, 0));
-	setWrapperAbortEnabled(0);
+	if (!isOnDreamcast())
+	{
+		setWrapperAbortEnabled(0);
+	}
 	if(isInDevelopMode()) {
 		disableWrapperErrorRecovery();	
 		setMinimumLogType(LOG_TYPE_NORMAL);

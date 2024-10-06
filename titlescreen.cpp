@@ -45,6 +45,7 @@ public:
             streamMusicFile("game/TITLE.ogg");
         }
         tryPlayMugenSound(&mSounds, 1, 0);
+        setWrapperTitleScreen(getTitleScreen());
     }
     void update() {
         updateInput();
