@@ -1,0 +1,47 @@
+[Header]
+Sprites = game/OUTRO.sff
+
+[STORYSTART]
+
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = " "
+Text = "David made it through all of Goliath' patterns because he just barely fit through them."
+
+[Image 1]
+Group = 1
+Item = 4
+
+[Text 1]
+Speaker = " "
+Text = "When the people came out of hiding, David thought they would call him a tiny creature, the Ludum Dare 56 theme, but instead they were just in awe on how he defeated that robot and his lasers. They did not care about his height at all!"
+
+[Image 1]
+Group = 1
+Item = 1
+
+[Text 1]
+Speaker = " "
+Text = "With Goliath defeated, President Michael Jordan had no choice but to admit defeat. Of course, this meant David was the new president now because that's how it works."
+
+[Image 1]
+Group = 1
+Item = 2
+
+[Text 1]
+Speaker = " "
+Text = "The moral of the story is: Height doesn't matter too much as long as you have a gun or a spear."
+
+[Image 1]
+Group = 1
+Item = 3
+
+[Text 1]
+Speaker = " "
+Text = "Thanks for playing! The end!"
+
+[Title]

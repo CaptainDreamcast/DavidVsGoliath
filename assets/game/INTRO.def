@@ -1,0 +1,63 @@
+[Header]
+Sprites = game/INTRO.sff
+
+[STORYSTART]
+
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = " "
+Text = "David Davidson has the perfect life, there is just one thing he is unhappy with."
+
+[Image 1]
+Group = 1
+Item = 1
+
+[Text 1]
+Speaker = " "
+Text = "His height is 5'11."
+
+[Image 1]
+Group = 1
+Item = 2
+
+[Text 1]
+Speaker = " "
+Text = "One day, as David has always feared and predicted, President Michael Jordan signs an executive degree calling for the detainment of all men smaller than 6'."
+
+[Image 1]
+Group = 1
+Item = 5
+
+[Text 1]
+Speaker = " "
+Text = "'Detain them, these Tiny Creatures (Ludum Dare 56 theme)', he bellowed over the presidential speakers installed in every street corner as is practice."
+
+[Image 1]
+Group = 1
+Item = 6
+
+[Text 1]
+Speaker = " "
+Text = "For this, the government authorizes the use of its specialized detainment unit: A 15-tons super robot called Goliath."
+
+[Image 1]
+Group = 1
+Item = 3
+
+[Text 1]
+Speaker = " "
+Text = "But David was prepared for this day, he has his trusty slingshot and spear ready to fight back."
+
+[Image 1]
+Group = 1
+Item = 4
+
+[Text 1]
+Speaker = " "
+Text = "The coming fight will be a true fight of... David vs Goliath!"
+
+[Game]
